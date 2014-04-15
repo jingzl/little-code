@@ -1,4 +1,4 @@
 little-code
 ===========
 
-just some little code, but useful
+just some little codes, but useful, about everything.
